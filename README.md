@@ -1,1 +1,1 @@
-"# MOT_NI" 
+I took part in the Code First Girls course 'Introduction to Python Programming. This was my final project, where I had to carry out a spreadsheet analysis. I extended the project by analysing a csv file of vehicles that went through their MOT in Northern Ireland during 2018-19. The analysis is presented using Jupyter notebooks, Pandas module and Seaborn.
